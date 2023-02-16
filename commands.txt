@@ -1,1 +1,1 @@
-curl -LJO https://github.com/Desarso/assemblyLib/blob/main/fetchSelf/fetch.sh
+curl -LJO https://raw.githubusercontent.com/Desarso/assemblyLib/main/fetchSelf/fetch.sh
